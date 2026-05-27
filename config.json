@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersonnect",
+        "uuid": 986376,
+        "checksum": "ilf1z"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
